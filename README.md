@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://github.com/satyendrasingh-d/satyendrasingh-d/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.gif" />
+</p>
+
 # 💫 About Me:
-��🤝-: Hello, I am Satyendra Singh, a Data Science Student. -:🤝��<br><br>�🎓 I’m currently working on strengthening my skills in Python, statistics, data structures, and machine learning projects as a 3rd‑semester BSc Data Science student. 🎓�<br> <br>��👯 I’m looking to collaborate on beginner to intermediate data projects, like EDA notebooks, prediction models, and dashboards using real‑world datasets. 👯��<br><br>�🤝 I’m looking for help with writing efficient Python and SQL code, understanding algorithms and data structures, and improving my problem‑solving for placements. 🤝�<br><br>��🌱 I’m currently learning data structures and algorithms, database concepts, and data visualization tools to prepare for internships and future roles in data science. 🌱��<br><br>�💬 Ask me about my journey in data science, how I study subjects like Python, statistics, and DSA, or the small data projects I’m building to apply classroom concepts. 💬�<br><br>��⚡ Fun fact: I enjoy turning college assignments and everyday problems into small coding or analytics projects and sharing them on GitHub to track my progress. ⚡��<br>
+��🤝-: Hello, I am Satyendra Singh, learning Data Science. -:🤝��<br><br>�🎓 I’m currently working on strengthening my skills in Python, statistics, data structures, and machine learning projects as a 3rd‑semester BSc Data Science student. 🎓�<br> <br>��👯 I’m looking to collaborate on beginner to intermediate data projects, like EDA notebooks, prediction models, and dashboards using real‑world datasets. 👯��<br><br>�🤝 I’m looking for help with writing efficient Python and SQL code, understanding algorithms and data structures, and improving my problem‑solving for placements. 🤝�<br><br>��🌱 I’m currently learning data structures and algorithms, database concepts, and data visualization tools to prepare for internships and future roles in data science. 🌱��<br><br>�💬 Ask me about my journey in data science, how I study subjects like Python, statistics, and DSA, or the small data projects I’m building to apply classroom concepts. 💬�<br><br>��⚡ Fun fact: I enjoy turning college assignments and everyday problems into small coding or analytics projects and sharing them on GitHub to track my progress. ⚡��<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyendra-singh-b14b6b326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyendrasinghdpu@gmail.com) 
 
 # 💻 Tech Stack:
