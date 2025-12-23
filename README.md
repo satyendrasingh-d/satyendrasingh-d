@@ -31,10 +31,10 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/satyendra-singh-b14b6b326" target="_blank">
+  <a href="https://www.linkedin.com/in/satyendra-singh-b14b6b326" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="satyendrasinghdpu@gmail.com" target="_blank">
+  <a href="mailto:satyendrasinghdpu@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
   <a href="https://x.com/satyendra_dpu" target="_blank">
