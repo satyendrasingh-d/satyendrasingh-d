@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
 
 ###
 
@@ -44,6 +44,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
   </a>
 </div>
+
+###
 
 ###
 # 💻 Tech Stack:
