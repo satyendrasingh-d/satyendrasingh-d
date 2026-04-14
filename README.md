@@ -4,7 +4,7 @@
 
 ###
 
-![My Banner](Profile.jpg)
+![My Banner](Profile.png)
 
 ###
 
