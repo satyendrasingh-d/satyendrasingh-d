@@ -1,5 +1,5 @@
 <div>
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=rounded&height=120&section=header&reversal=true&text=Passionate%20about%20solving%20real-world%20problems&fontSize=30&fontColor=Black&fontAlign=50&fontAlignY=50&stroke=dinamic&strokeWidth=50&animation=scaleIn&textBg=false&color=gradient" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=rounded&height=80&section=header&reversal=true&text=Passionate%20about%20solving%20real-world%20problems&fontSize=30&fontColor=Black&fontAlign=50&fontAlignY=50&stroke=dinamic&strokeWidth=50&animation=scaleIn&textBg=false&color=gradient" />
 </div>
 
 ###
